@@ -2,7 +2,14 @@
   "resourceType": "GMProject",
   "resourceVersion": "1.6",
   "name": "Of-The-Deep",
-  "resources": [],
+  "resources": [
+    {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":1,},
+    {"id":{"name":"spr_DEMObackground","path":"sprites/spr_DEMObackground/spr_DEMObackground.yy",},"order":1,},
+    {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":2,},
+    {"id":{"name":"obj_DEMOsub","path":"objects/obj_DEMOsub/obj_DEMOsub.yy",},"order":0,},
+    {"id":{"name":"spr_DEMOsub","path":"sprites/spr_DEMOsub/spr_DEMOsub.yy",},"order":0,},
+    {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},"order":0,},
+  ],
   "Options": [
     {"name":"macOS","path":"options/mac/options_mac.yy",},
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -14,7 +21,9 @@
     "name": "Default",
     "children": [],
   },
-  "RoomOrderNodes": [],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
+  ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy","order":14,},
