@@ -1,17 +1,20 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_DEMOfossil",
+  "name": "obj_DEMOrightWall",
   "spriteId": {
-    "name": "spr_DEMOfossil",
-    "path": "sprites/spr_DEMOfossil/spr_DEMOfossil.yy",
+    "name": "spr_DEMOrightWall",
+    "path": "sprites/spr_DEMOrightWall/spr_DEMOrightWall.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_DEMOleftWall",
+    "path": "objects/obj_DEMOleftWall/obj_DEMOleftWall.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -24,10 +27,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_DEMOsub","path":"objects/obj_DEMOsub/obj_DEMOsub.yy",},},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
