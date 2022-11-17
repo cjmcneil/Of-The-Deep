@@ -28,7 +28,6 @@
     {"id":{"name":"obj_DEMOegg","path":"objects/obj_DEMOegg/obj_DEMOegg.yy",},"order":8,},
     {"id":{"name":"obj_DEMOhealthbar","path":"objects/obj_DEMOhealthbar/obj_DEMOhealthbar.yy",},"order":13,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":2,},
-    {"id":{"name":"obj_fossilmeter","path":"objects/obj_fossilmeter/obj_fossilmeter.yy",},"order":16,},
     {"id":{"name":"scr_scroll","path":"scripts/scr_scroll/scr_scroll.yy",},"order":0,},
     {"id":{"name":"rm_DEMOwin","path":"rooms/rm_DEMOwin/rm_DEMOwin.yy",},"order":2,},
     {"id":{"name":"obj_DEMOswordfish","path":"objects/obj_DEMOswordfish/obj_DEMOswordfish.yy",},"order":2,},
@@ -46,7 +45,7 @@
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
-  "defaultScriptType": 1,
+  "defaultScriptType": 0,
   "isEcma": false,
   "configs": {
     "name": "Default",
