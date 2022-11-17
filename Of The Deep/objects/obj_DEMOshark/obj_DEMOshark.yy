@@ -6,7 +6,7 @@
     "name": "spr_DEMOshark",
     "path": "sprites/spr_DEMOshark/spr_DEMOshark.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,

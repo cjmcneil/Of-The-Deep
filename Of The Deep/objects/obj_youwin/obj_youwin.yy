@@ -1,12 +1,12 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_DEMOleftWall",
+  "name": "obj_youwin",
   "spriteId": {
-    "name": "spr_DEMOleftWall",
-    "path": "sprites/spr_DEMOleftWall/spr_DEMOleftWall.yy",
+    "name": "spr_youwin",
+    "path": "sprites/spr_youwin/spr_youwin.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
@@ -24,7 +24,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":82,"eventType":5,"collisionObjectId":null,},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

@@ -1,7 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-other.hp -= 20;
+if obj_DEMOsub.canBeDamaged = false{
+	obj_DEMOsub.canBeDamaged = true
+	other.hp -= 20;
+}
 
 
 
