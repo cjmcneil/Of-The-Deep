@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-canBeDamaged = true;
 
 
 
 
+//draws the skeleton as player picks up fossils

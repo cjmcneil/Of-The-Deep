@@ -3,9 +3,8 @@
 
 //vspeed = 0;
 
-if canBeDamaged = false{
-	canBeDamaged = true
+if canBeDamaged = true{
+	canBeDamaged = false
 	hp -= 10;
+	alarm[0] = room_speed/2
 }
-
-
