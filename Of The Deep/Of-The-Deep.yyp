@@ -22,6 +22,7 @@
     {"id":{"name":"obj_DEMOshark","path":"objects/obj_DEMOshark/obj_DEMOshark.yy",},"order":11,},
     {"id":{"name":"obj_DEMOfossil","path":"objects/obj_DEMOfossil/obj_DEMOfossil.yy",},"order":7,},
     {"id":{"name":"obj_DEMOegg","path":"objects/obj_DEMOegg/obj_DEMOegg.yy",},"order":8,},
+    {"id":{"name":"obj_DEMOhealthbar","path":"objects/obj_DEMOhealthbar/obj_DEMOhealthbar.yy",},"order":13,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":2,},
     {"id":{"name":"scr_scroll","path":"scripts/scr_scroll/scr_scroll.yy",},"order":0,},
     {"id":{"name":"obj_DEMOswordfish","path":"objects/obj_DEMOswordfish/obj_DEMOswordfish.yy",},"order":2,},
