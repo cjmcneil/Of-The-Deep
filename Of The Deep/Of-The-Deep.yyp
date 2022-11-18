@@ -16,6 +16,7 @@
     {"id":{"name":"spr_DEMOegg","path":"sprites/spr_DEMOegg/spr_DEMOegg.yy",},"order":7,},
     {"id":{"name":"obj_DEMObubble","path":"objects/obj_DEMObubble/obj_DEMObubble.yy",},"order":5,},
     {"id":{"name":"spr_DEMOswordfish","path":"sprites/spr_DEMOswordfish/spr_DEMOswordfish.yy",},"order":4,},
+    {"id":{"name":"rm_newDEMOwin","path":"rooms/rm_newDEMOwin/rm_newDEMOwin.yy",},"order":4,},
     {"id":{"name":"spr_DEMOshark","path":"sprites/spr_DEMOshark/spr_DEMOshark.yy",},"order":12,},
     {"id":{"name":"obj_DEMOaquasaurus","path":"objects/obj_DEMOaquasaurus/obj_DEMOaquasaurus.yy",},"order":3,},
     {"id":{"name":"obj_youwin","path":"objects/obj_youwin/obj_youwin.yy",},"order":14,},
@@ -57,6 +58,7 @@
     {"roomId":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
     {"roomId":{"name":"rm_DEMOwin","path":"rooms/rm_DEMOwin/rm_DEMOwin.yy",},},
     {"roomId":{"name":"rm_DEMOlose","path":"rooms/rm_DEMOlose/rm_DEMOlose.yy",},},
+    {"roomId":{"name":"rm_newDEMOwin","path":"rooms/rm_newDEMOwin/rm_newDEMOwin.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},

@@ -1,13 +1,13 @@
 /// @description Insert description here
 // You can write your code in this editor
-if keyboard_check(vk_left){ 
+if (keyboard_check(vk_left) and !instance_place(x-sub_speed,y,obj_DEMOleftWall)){ 
 	image_xscale = -1
-	x -= 4
+	x -= sub_speed
 }
 
-if keyboard_check(vk_right){ 
+if (keyboard_check(vk_right) and !instance_place(x+sub_speed,y,obj_DEMOrightWall)){ 
 	image_xscale = 1
-	x += 4
+	x += sub_speed
 }
 
 if keyboard_check(vk_up) y -= 4
