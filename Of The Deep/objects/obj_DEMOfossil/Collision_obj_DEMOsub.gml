@@ -7,6 +7,9 @@ obj_fossilmeter.numOfFossils += 1
 
 if obj_fossilmeter.numOfFossils = 6{
 	instance_create_layer(room_width/2, room_height/2, "Instances", obj_youwin)
+	instance_destroy(obj_DEMOfossil)
+	instance_destroy(obj_DEMOshark)
+	instance_destroy(obj_DEMOswordfish)
 }
 
 
