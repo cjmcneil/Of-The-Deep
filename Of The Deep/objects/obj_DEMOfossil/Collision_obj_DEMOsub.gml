@@ -12,6 +12,3 @@ if obj_fossilmeter.numOfFossils = 6{
 	//instance_destroy(obj_DEMOshark)
 	//instance_destroy(obj_DEMOswordfish)
 }
-
-
-

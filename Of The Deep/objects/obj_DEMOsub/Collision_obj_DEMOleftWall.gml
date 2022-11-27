@@ -5,6 +5,7 @@
 
 if canBeDamaged = true{
 	canBeDamaged = false
-	hp -= 10;
+	//hp -= 10;
+	scr_damage(10);
 	alarm[0] = room_speed/2
 }
