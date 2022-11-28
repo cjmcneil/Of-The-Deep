@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 //hspeed = 0;
-/*
+
 if obj_DEMOsub.canBeDamaged = true{
 
 	//hp -= 10;
@@ -10,4 +10,3 @@ if obj_DEMOsub.canBeDamaged = true{
 	alarm[0] = room_speed/2
 	obj_DEMOsub.canBeDamaged = false
 }
-*/

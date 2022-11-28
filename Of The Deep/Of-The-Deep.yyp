@@ -67,9 +67,9 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
     {"roomId":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
     {"roomId":{"name":"rm_transition1","path":"rooms/rm_transition1/rm_transition1.yy",},},
-    {"roomId":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
     {"roomId":{"name":"rm_transition2","path":"rooms/rm_transition2/rm_transition2.yy",},},
     {"roomId":{"name":"rm_newDEMOwin","path":"rooms/rm_newDEMOwin/rm_newDEMOwin.yy",},},
     {"roomId":{"name":"rm_DEMOwin","path":"rooms/rm_DEMOwin/rm_DEMOwin.yy",},},
