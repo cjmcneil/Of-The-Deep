@@ -5,8 +5,8 @@ if (keyboard_check(vk_left) and !instance_place(x-sub_speed,y,obj_DEMOleftWall))
 	x -= sub_speed
 } else if (keyboard_check(vk_left) and instance_place(x-sub_speed,y,obj_DEMOleftWall)){ 
 	if instance_exists(obj_DEMOsub){
-		if obj_DEMOsub.canBeDamaged = true{
-		obj_DEMOsub.canBeDamaged = false
+		if obj_DEMOsub.canBeDamaged = false{
+		obj_DEMOsub.canBeDamaged = true
 		//hp -= 10;
 		scr_damage(10);
 		alarm[0] = room_speed/2
@@ -19,8 +19,8 @@ if (keyboard_check(vk_right) and !instance_place(x+sub_speed,y,obj_DEMOrightWall
 	x += sub_speed
 } else if (keyboard_check(vk_right) and instance_place(x+sub_speed,y,obj_DEMOrightWall)){
 	if instance_exists(obj_DEMOsub){
-		if obj_DEMOsub.canBeDamaged = true{
-		obj_DEMOsub.canBeDamaged = false
+		if obj_DEMOsub.canBeDamaged = false{
+		obj_DEMOsub.canBeDamaged = true
 		//hp -= 10;
 		scr_damage(10);
 		alarm[0] = room_speed/2

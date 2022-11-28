@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-canBeDamaged = true
+canBeDamaged = false
 
 hp = 100;
 
