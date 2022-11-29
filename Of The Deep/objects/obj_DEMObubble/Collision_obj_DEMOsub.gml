@@ -3,10 +3,10 @@
 
 
 if obj_DEMOsub.canBeDamaged = true{
-	obj_DEMOsub.canBeDamaged = false
 	//other.hp -= 20;
-	scr_damage(5);
+	scr_damage(25);
 	alarm[0] = room_speed / 2
+	obj_DEMOsub.canBeDamaged = false
 }
 instance_destroy()
 
