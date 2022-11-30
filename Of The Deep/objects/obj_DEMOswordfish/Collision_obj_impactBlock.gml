@@ -1,4 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-obj_DEMOsub.canBeDamaged = true;
+hspeed = hspeed * -1;
+image_xscale = image_xscale * -1;
+
+
