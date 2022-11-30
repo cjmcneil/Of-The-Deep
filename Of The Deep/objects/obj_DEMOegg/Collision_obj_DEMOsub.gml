@@ -3,8 +3,8 @@
 
 room_goto(rm_transition2);
 
-obj_DEMOsub.x = 1650
-obj_DEMOsub.y = 2020
+obj_DEMOsub.x = 1856
+obj_DEMOsub.y = 4000
 
 
 
