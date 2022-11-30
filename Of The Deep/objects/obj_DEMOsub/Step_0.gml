@@ -41,3 +41,9 @@ if keyboard_check(vk_down) y += 4
 
 x = clamp(x, sprite_width/2, room_width-sprite_width/2)
 y = clamp(y, sprite_height/2, room_height-sprite_height/2)
+
+
+//when sub has no health, move to lose screen
+if (obj_DEMOsub.hp <= 0){
+	room_goto(rm_DEMOlose)
+}

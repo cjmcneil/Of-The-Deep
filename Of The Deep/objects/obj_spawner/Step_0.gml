@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-x = random(room_width)
+x = irandom_range(400, 1500)
 y = irandom_range(sprite_yoffset, (sprite_height-sprite_yoffset))
 
 if canSpawn = true{

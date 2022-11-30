@@ -4,9 +4,13 @@
 
 if obj_DEMOsub.canBeDamaged = true{
 	//other.hp -= 20;
+	obj_DEMOsub.canBeDamaged = false
 	scr_damage(20);
 	alarm[0] = room_speed / 2
-	obj_DEMOsub.canBeDamaged = false
+}
+
+if (obj_fossilmeter.numOfFossils >= 2){
+	obj_fossilmeter.numOfFossils -= 2;
 }
 
 
