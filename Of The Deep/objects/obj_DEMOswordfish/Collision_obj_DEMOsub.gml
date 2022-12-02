@@ -9,8 +9,10 @@ if obj_DEMOsub.canBeDamaged = true{
 	alarm[0] = room_speed / 2
 }
 
-if (obj_fossilmeter.numOfFossils >= 2){
+if (obj_fossilmeter.numOfFossils >= 2 and obj_fossilmeter.canBeRemoved = true){
+	obj_fossilmeter.canBeRemoved = false
 	obj_fossilmeter.numOfFossils -= 2;
+	alarm[1] = room_speed / 2
 }
 
 

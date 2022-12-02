@@ -100,9 +100,9 @@
     {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},"order":0,},
   ],
   "Options": [
-    {"name":"macOS","path":"options/mac/options_mac.yy",},
-    {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
   ],
   "defaultScriptType": 1,
   "isEcma": false,
@@ -144,6 +144,6 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.9.1.51",
+    "IDEVersion": "2022.11.0.54",
   },
 }
