@@ -4,6 +4,7 @@ if (object_exists(obj_DEMOsub) and isAttacking == false){
 	if distance_to_object(obj_DEMOsub) <= attack_range{
 		isAttacking = true;
 		path_speed = 0;
+		direction = point_direction(x, y, obj_DEMOsub.x, obj_DEMOsub.y);
 	}
 }
 	if isAttacking == true {	
