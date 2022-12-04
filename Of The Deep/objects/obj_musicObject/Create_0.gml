@@ -4,6 +4,13 @@
 firstTune = true;
 lastTune = false;
 
+if firstTune = true{
+	audio_play_sound(snd_theme1, 2, true);
+}
+
+if lastTune = true{
+	audio_play_sound(snd_theme2, 2, true);
+}
 
 
 

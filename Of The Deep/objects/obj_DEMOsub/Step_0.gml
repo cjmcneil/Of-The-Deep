@@ -45,5 +45,7 @@ y = clamp(y, sprite_height/2, room_height-sprite_height/2)
 
 //when sub has no health, move to lose screen
 if (obj_DEMOsub.hp <= 0){
-	room_goto(rm_DEMOlose)
+	instance_destroy();
+	room_goto(rm_DEMOlose);
+
 }

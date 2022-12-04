@@ -7,7 +7,7 @@ audio_play_sound(snd_pickup, 2, false)
 obj_DEMOsub.x = 1856
 obj_DEMOsub.y = 4000
 
-lastTune = false;
+obj_musicObject.lastTune = false;
 
 
 
