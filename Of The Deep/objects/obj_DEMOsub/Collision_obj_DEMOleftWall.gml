@@ -11,3 +11,4 @@ if obj_DEMOsub.canBeDamaged = true{
 	obj_DEMOsub.canBeDamaged = false
 }
 */
+audio_play_sound(snd_impact, 2, false)

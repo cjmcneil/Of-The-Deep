@@ -6,6 +6,7 @@ if obj_DEMOsub.canBeDamaged = true{
 	//obj_DEMOsub.hp -= 20;
 	obj_DEMOsub.canBeDamaged = false
 	scr_damage(20);
+	audio_play_sound(snd_impact, 2, false)
 	alarm[0] = room_speed/2
 }
 

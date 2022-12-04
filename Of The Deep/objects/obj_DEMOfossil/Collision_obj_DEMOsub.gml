@@ -4,11 +4,15 @@
 // Increase fossil meter by 1 (out of 6)
 instance_destroy();
 obj_fossilmeter.numOfFossils += 1
+audio_play_sound(snd_pickup, 2, false)
 
 if obj_fossilmeter.numOfFossils = 6{
 	room_goto(rm_transition1)
 	obj_DEMOsub.x = 830
 	obj_DEMOsub.y = 75
+	
+	firstTune = false;
+	firstTune = true;
 	//instance_create_layer(room_width/2, room_height/2, "Instances", obj_youwin)
 	//instance_destroy(obj_DEMOfossil)
 	//instance_destroy(obj_DEMOshark)
