@@ -118,6 +118,7 @@
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
   ],
   "defaultScriptType": 1,
   "isEcma": false,
