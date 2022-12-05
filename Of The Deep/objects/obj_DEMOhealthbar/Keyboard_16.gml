@@ -3,7 +3,6 @@
 
 
 
-
 if (keyboard_check_pressed(ord("H"))){
 	obj_DEMOsub.hp = 100;
 }
