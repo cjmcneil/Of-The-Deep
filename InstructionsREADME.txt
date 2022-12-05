@@ -25,3 +25,7 @@ The player’s only hope is to find and collect the egg at the seabed, whereupon
 
 The (ironic) win screen is then shown, which depicts the submarine traveling towards the surface - only to come face-to-face with the charging aquasaurus.
 There is a 'Return to Menu' button on the win screen.
+
+Cheat Codes:
+Press Shift + H to max out the healthbar
+Press Shift + L to move to the next level
