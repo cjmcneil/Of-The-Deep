@@ -1,5 +1,5 @@
 ﻿Team Name: Hexico Games Ltd.
-Team Members: Lucas Baker, Colin McNeil, William Hemric, Ilan Hutchinson
+Team Members: Lucas Baker, Colin McNeil, William Hemric, Ilan Hutchinson, Chris Allard
 Genre: Underwater, greyscale, adventure
 
 Instructions: 
