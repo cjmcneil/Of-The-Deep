@@ -7,6 +7,7 @@ if obj_DEMOsub.canBeDamaged = true{
 	obj_DEMOsub.canBeDamaged = false
 	scr_damage(20);
 	alarm[0] = room_speed / 2
+	audio_play_sound(snd_bubbleHit, 2, false);
 }
 instance_destroy()
 
